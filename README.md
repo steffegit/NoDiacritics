@@ -1,5 +1,6 @@
 # NoDiacritics
-NoDiacritics Romanian Edition
+
+### NoDiacritics Romanian Edition
 
 ENG:
 In case you ever want the text to have no diacritics. You can use this program to remove all diacritics from your text.
